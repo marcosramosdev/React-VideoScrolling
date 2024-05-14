@@ -44,7 +44,7 @@ function App() {
     <div
       style={{
         height: "6000px",
-        backgroundColor: "black",
+        backgroundColor: "white",
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
